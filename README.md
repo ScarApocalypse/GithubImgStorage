@@ -1,1 +1,1 @@
-### 个人码云图床
+### use github repo as a free markdown image storage
